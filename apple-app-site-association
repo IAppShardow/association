@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "57F52HQ7S5.com.fzwsc.guatuandai",
+                "paths": [ "/guatuandai/*" ]
+            }
+        ]
+    }
+}
